@@ -1,0 +1,2237 @@
+@media only screen and (min-width:2048px) {}
+
+@media only screen and (min-width:1600px) and (max-width:2047px) {}
+
+@media only screen and (min-width:1440px) and (max-width:1599px) {}
+
+@media only screen and (min-width:1171px) and (max-width:1245px) {}
+
+@media only screen and (min-width:960px) and (max-width:1169px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+    .about {
+        padding: 45px 0 30px 0;
+        overflow: hidden;
+        display: table;
+    }
+
+    .about .about_left {
+        float: none;
+        width: auto;
+        margin-right: 30px;
+        display: table-footer-group;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .about .about_left::after {
+        top: 86%;
+        margin: 0 auto;
+        right: 0;
+    }
+
+    .about_right {
+        width: auto;
+        display: table-header-group;
+        float: none;
+    }
+
+    .about .about_right h2 {
+        margin-bottom: 43px;
+    }
+
+    .about .about_right ul li h3 {
+        float: none;
+        text-align: center;
+    }
+
+    .about .about_right h2::after {
+        top: 40px;
+    }
+
+    .about .about_right .about_part {
+        margin-top: 28px;
+        margin-bottom: 25px;
+    }
+
+    .about .about_left img {
+        width: 30%;
+    }
+
+    .about .about_right ul li .icon_round {
+        float: none;
+        margin-right: 16px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .product .panel ul li {
+        width: 22.5%;
+    }
+
+    .blogInfo h6 {
+        font-size: 16px;
+
+    }
+
+    .we .why_us .why_pic li {
+        width: 22%;
+        height: auto;
+        margin-left: 23px;
+        position: relative;
+    }
+
+    .we .why_us .why_pic li::after {
+        height: 41px;
+        width: 193px;
+        left: -44px;
+        position: absolute;
+        top: 78%;
+    }
+
+    .our_project ul li {
+        width: 47%;
+        margin: 0 40px 20px 0;
+    }
+
+    .our_project li .right_text {
+        margin: 10px;
+        width: 54%;
+
+    }
+
+    .our_project li .right_text p {
+        padding-bottom: 8px;
+    }
+
+    .client .system_src ul li {
+        width: 20.5%;
+    }
+
+    .testi ul li {
+        width: 30%;
+    }
+
+    .subcribe {
+        margin: 0px 0 0 0;
+    }
+
+    .our_project li .right_text h5 {
+        margin-bottom: 10px;
+    }
+
+    .subcribe .subcribe_form input[type="submit"] {
+        right: 10px;
+        top: 35px;
+        width: 16%;
+        cursor: pointer;
+        padding: 12.5px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child .footer_logo {
+        margin: 0;
+        width: auto;
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child {
+        text-align: center;
+        width: auto;
+        margin-right: 0;
+        vertical-align: top;
+        margin: 0 auto 20px 0;
+        display: block;
+    }
+
+    .footer_sec .footer_top {
+        padding: 30px 0;
+
+    }
+
+    .footer_sec .footer_top .wrapper ul li p {
+        text-align: center;
+    }
+
+
+    .footer_sec .footer_top .wrapper ul li {
+        width: 45%;
+    }
+
+    .footer_sec .footer_top .wrapper ul li.contact_us {
+        margin-right: 0;
+        width: 40%;
+    }
+
+    .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+        height: 66% !important;
+    }
+    /* ==================== start gallery slider ==================== */
+    #banner-slider{
+        height: 500px !important;
+    }
+    /* ==================== end gallery slider ==================== */
+
+
+}
+
+@media only screen and (min-width:769px) and (max-width:959px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+    .banner.innerPgBn img {
+        width: 1254px;
+        left: 50%;
+        margin: 0px 0 0 -760px;
+    }
+
+    .about {
+        padding: 45px 0 38px 0;
+        overflow: hidden;
+        display: table;
+    }
+
+    .about .about_left {
+
+        float: none;
+        width: auto;
+        margin-right: 30px;
+        display: table-footer-group;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .about .about_left::after {
+        top: 86%;
+        margin: 0 auto;
+        right: 0;
+    }
+
+    .about_right {
+        width: auto;
+        display: table-header-group;
+        float: none;
+    }
+
+    .about .about_right h2 {
+        margin-bottom: 43px;
+    }
+
+    .about .about_right ul li h3 {
+        float: none;
+        text-align: center;
+    }
+
+    .about .about_right h2::after {
+        top: 40px;
+    }
+
+    .about .about_right .about_part {
+        margin-top: 28px;
+        margin-bottom: 25px;
+    }
+
+    .about .about_left img {
+        width: 30%;
+    }
+
+    .about .about_right ul li .icon_round {
+        float: none;
+        margin-right: 16px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .topBar.solid {
+        height: 16%;
+    }
+
+    .product .panel ul li {
+        width: 46.2%;
+        margin-bottom: 20px;
+    }
+
+    .blogThumb {
+        width: auto;
+    }
+
+    .blogInfo h6 {
+        font-size: 16px;
+
+    }
+
+    .our_project ul li {
+        width: 48%;
+        margin: 0 20px 20px 0;
+    }
+
+    .our_project {
+        padding: 10px 0;
+    }
+
+    .our_project ul li {
+        width: 47%;
+        margin: 0 40px 20px 0;
+    }
+
+    .our_project li .right_text {
+        margin: 10px;
+        width: 45%;
+    }
+
+    .our_project li .right_text p {
+        padding-bottom: 3px;
+        margin-top: 8px;
+        line-height: 22px;
+    }
+
+    .our_project li .right_text p {
+        font-family: 'Poppins', sans-serif;
+        color: #a6a6a6;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: left;
+
+    }
+
+    .our_project li .right_text h4 {
+        font-size: 16px;
+        padding-bottom: 7px;
+        border-bottom: 1px solid #acabab;
+    }
+
+    .client .system_src ul li {
+        width: 20.5%;
+    }
+
+    .client h3 {
+        font-size: 30px;
+    }
+
+    .client {
+        padding: 30px 0;
+    }
+
+    .testi h3 {
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+
+    .testi h4 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+
+    .client .system_src ul li {
+        width: 19.5%;
+    }
+
+    .testi ul li {
+        width: 45%;
+    }
+
+    .subcribe {
+        margin: 0px 0 0 0;
+    }
+
+    .subcribe .subcribe_form {
+        width: 40%;
+    }
+
+    .subcribe .subcribe_form input[type="submit"] {
+        border: none;
+        right: 11px;
+        top: 36px;
+        width: 15%;
+
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child {
+        text-align: center;
+        width: auto;
+        margin-right: 0;
+        vertical-align: top;
+        margin: 0 auto 20px 0;
+        display: block;
+    }
+
+    .footer_sec .footer_top .wrapper ul li p {
+        text-align: center;
+        width: 82%;
+        margin: 0 auto;
+    }
+
+
+    .footer_sec .footer_top .wrapper ul li {
+        width: 34%;
+    }
+
+    .footer_sec .footer_top .wrapper ul li.contact_us {
+        margin-right: 0;
+        width: 50%;
+    }
+
+    .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+        height: 66% !important;
+    }
+
+    .top_header_left {
+        float: none;
+        width: auto;
+    }
+
+    .top_header_left p {
+        text-align: center;
+    }
+
+    .top_header {
+        padding: 5px 0;
+    }
+
+    .top_header_right {
+        float: none;
+        width: auto;
+        text-align: center;
+    }
+
+    .logo img {
+        width: 77%;
+    }
+
+    .topBar {
+        padding: 0px 0 20px 0;
+    }
+
+    #header {
+        margin-top: 20px;
+        width: 0 !important;
+    }
+
+    /*********************************************** Clients ******************************************/
+
+    .clients .client_dtls ul li img {
+        width: 100%;
+    }
+
+    .clients .client_dtls ul li {
+        padding: 25px;
+        width: 10%;
+        display: inline-block;
+        border: 1px solid #c9c9c9;
+        margin-right: 18px;
+        overflow: hidden;
+        margin-bottom: 18px;
+    }
+     /* ==================== start navbar ==================== */
+    .topBar.solid {
+    height: 32% !important;
+}
+    .topBar.solid .logo img{
+        width: 80%;
+    }
+    #header{
+        margin-top: 17px !important;
+    }
+/* ==================== end navbar ==================== */
+    /* ==================== start gallery slider ==================== */
+    #banner-slider{
+        height: 420px !important;
+    }
+    /* ==================== end gallery slider ==================== */
+    /* =================================== Start About =================================== */
+    .about .about_right h2{
+        font-size: 30px;
+    }
+    /* =================================== End About =================================== */
+    /* =================================== Start Services =================================== */
+    .services h2{
+        font-size: 30px;
+    }
+    .services ul li{
+            padding: 15px 10px 15px;
+    }
+    .services ul li .service_text{
+        padding: 10px;
+    }
+    /* =================================== End Services =================================== */
+    /* =================================== Start Delivery Assurance =================================== */
+    .da{
+        padding: 50px 0;
+    }
+    .da h2{
+        font-size: 30px;
+    }.da p{
+        width: auto;
+    }
+    /* =================================== end Delivery Assurance =================================== */
+    /* =================================== Start Our Projects =================================== */
+    .our_project{
+        padding: 50px 0 0;
+    }
+    .our_project h3{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    /* =================================== end Our Projects =================================== */
+    /* =================================== Start Our Clients =================================== */
+    .client{
+        padding: 50px 0 0;
+    }
+    .client h3{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+/* =================================== end Our Clients =================================== */
+/* =================================== start Contact =================================== */
+    .contact {
+    padding: 50px 0 50px;
+}
+    .contact h2{
+        font-size: 30px;
+    }
+/* =================================== end Contact =================================== */
+
+}
+
+@media only screen and (min-width:641px) and (max-width:768px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+
+    .banner.innerPgBn img {
+        width: 1057px;
+        left: 50%;
+        margin: 0px 0 0 -629px;
+    }
+
+    .about {
+        padding: 45px 0 40px 0;
+        overflow: hidden;
+        display: table;
+    }
+
+    .about .about_left {
+
+        float: none;
+        width: auto;
+        margin-right: 30px;
+        display: table-footer-group;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .about .about_left::after {
+        top: 74%;
+        margin: 0 auto;
+        right: 0;
+    }
+
+    .about_right {
+        width: auto;
+        display: table-header-group;
+        float: none;
+    }
+
+    .about .about_right h2 {
+        margin-bottom: 43px;
+        font-size: 30px;
+    }
+
+    .about .about_right ul li h3 {
+        float: none;
+        text-align: center;
+    }
+
+    .about .about_right h2::after {
+        top: 40px;
+    }
+
+    .about .about_right .about_part {
+        margin-top: 28px;
+        margin-bottom: 25px;
+    }
+
+    .about .about_left img {
+        width: 30%;
+    }
+
+    .about .about_right ul li .icon_round {
+        float: none;
+        margin-right: 16px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .topBar.solid {
+        height: 16%;
+    }
+
+    .partners {
+        padding: 15px 0 20px 0;
+        overflow: hidden;
+    }
+
+    .blogThumb {
+        width: auto;
+    }
+
+    .blogInfo h6 {
+        font-size: 16px;
+
+    }
+
+    .our_project {
+        padding: 30px 0 20px 0;
+    }
+
+    .our_project ul li {
+        width: auto;
+        margin: 0 13px 12px 0;
+    }
+
+    .our_project h3 {
+        margin-bottom: 30px;
+    }
+
+    .our_project li .right_text {
+        margin: 15px 10px;
+        width: 67%;
+    }
+
+
+    .our_project li .right_text p {
+        font-family: 'Poppins', sans-serif;
+        color: #a6a6a6;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: left;
+        padding-bottom: 41px;
+        margin-top: 8px;
+        line-height: 22px;
+
+    }
+
+    .our_project li .right_text h4 {
+        font-size: 16px;
+        padding-bottom: 30px;
+        border-bottom: 1px solid #acabab;
+    }
+
+
+    .client h3 {
+        font-size: 30px;
+        margin-bottom: 8px;
+    }
+
+    .client {
+        padding: 14px 0;
+    }
+
+    .client .system_src {
+        height: 200px;
+    }
+
+    .client .system_src ul li {
+        width: 26.5%;
+    }
+
+    .subcribe {
+        margin: 0px 0 0 0;
+    }
+
+    .subcribe .subcribe_form {
+        width: 36%;
+    }
+
+    .subcribe .subcribe_form input[type="text"] {
+        font-size: 12px;
+    }
+
+    .subcribe .subcribe_form input[type="submit"] {
+        border: none;
+        right: 11px;
+        top: 36px;
+        width: 12%;
+        cursor: pointer;
+        padding: 16px 20px 16px 8px;
+        font-size: 11px;
+
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child {
+        text-align: center;
+        width: auto;
+        margin-right: 0;
+        vertical-align: top;
+        margin: 0 auto 20px 0;
+        display: block;
+    }
+
+    .footer_sec .footer_top .wrapper ul li p {
+        text-align: center;
+        width: 82%;
+        margin: 0 auto;
+    }
+
+
+    .footer_sec .footer_top .wrapper ul li {
+        width: 30%;
+    }
+
+    .footer_sec .footer_top .wrapper ul li.contact_us {
+        margin-right: 0;
+        width: 60%;
+    }
+
+    .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+        height: 66% !important;
+    }
+
+    .top_header_left {
+        float: none;
+        width: auto;
+    }
+
+    .top_header_left p {
+        text-align: center;
+    }
+
+    .top_header {
+        padding: 5px 0;
+    }
+
+    .top_header_right {
+        float: none;
+        width: auto;
+        text-align: center;
+    }
+
+    .logo img {
+        width: 77%;
+    }
+
+    .topBar {
+        padding: 0px 0 20px 0;
+    }
+
+    #header {
+        margin-top: 20px;
+        width: 0 !important;
+    }
+
+    /*********************************************** Clients ******************************************/
+
+    .clients .client_dtls ul li img {
+        width: 100%;
+    }
+
+    .clients .client_dtls ul li {
+        padding: 25px;
+        width: 21%;
+        margin-right: 18px
+    }
+
+    .clients .client_dtls {
+        display: block;
+        margin: 50px 0 10px 0;
+        padding: 0;
+    }
+    /* ==================== start navbar ==================== */
+    .topBar.solid {
+    height: 29% !important;
+}
+    .topBar.solid .logo img{
+        width: 70%;
+    }
+    #header{
+        margin-top: 14px !important;
+    }
+/* ==================== end navbar ==================== */
+/* ==================== start gallery slider ==================== */
+    #banner-slider{
+        height: 350px !important;
+    }
+    /* ==================== end gallery slider ==================== */
+/* =================================== Start About =================================== */
+    .about .about_right h2{
+        font-size: 30px;
+    }
+    /* =================================== End About =================================== */
+    /* =================================== Start Services =================================== */
+    .services {
+    padding: 0 0px 30px;
+    }
+    .services h2{
+        font-size: 30px;
+    }
+    .services ul li{
+        width: 50%;
+            padding: 15px 10px 15px;
+    }
+    .services ul li .service_text{
+        padding: 10px;
+    }
+    /* =================================== End Services =================================== */
+    /* =================================== Start Delivery Assurance =================================== */
+    .da{
+        padding: 50px 0;
+    }
+    .da h2{
+        font-size: 30px;
+    }
+    .da p{
+        width: auto;
+    }
+    /* =================================== end Delivery Assurance =================================== */
+    /* =================================== Start Our Projects =================================== */
+    .our_project{
+        padding: 50px 0 0;
+    }
+    .our_project h3{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    /* =================================== end Our Projects =================================== */
+    /* =================================== Start Our Clients =================================== */
+    .client{
+        padding: 50px 0 0;
+    }
+    .client h3{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+/* =================================== end Our Clients =================================== */
+/* =================================== start Contact =================================== */
+    .contact {
+    padding: 50px 0 50px;
+}
+    .contact h2{
+        font-size: 30px;
+    }
+    .contact .left_div{
+        float: none;
+        width: auto;
+        margin: 0;
+    }
+    .contact iframe {
+    margin-bottom: 30px;
+}
+    .contact .right_div{
+        padding-top: 30px;
+    }
+/* =================================== end Contact =================================== */
+
+}
+
+@media only screen and (min-width:481px) and (max-width:640px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+    .banner.innerPgBn img {
+        width: 760px;
+        left: 50%;
+        margin: 0px 0 0 -456px;
+    }
+
+    .about {
+        padding: 45px 0 40px 0;
+        overflow: hidden;
+        display: table;
+    }
+
+    .about .about_left {
+
+        float: none;
+        width: auto;
+        margin-right: 30px;
+        display: table-footer-group;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .about .about_left::after {
+        top: 74%;
+        margin: 0 auto;
+        right: 0;
+    }
+
+    .about_right {
+        width: auto;
+        display: table-header-group;
+        float: none;
+    }
+
+    .about .about_right h2 {
+        margin-bottom: 40px;
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .about .about_right h2 span {
+        display: block;
+    }
+
+    .about .about_right ul li h3 {
+        float: none;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .about .about_right h2::after {
+        top: 75px;
+    }
+
+    .about .about_right .about_part {
+        margin-top: 28px;
+        margin-bottom: 25px;
+    }
+
+    .about .about_left img {
+        width: 30%;
+    }
+
+    .about .about_right ul li .icon_round {
+        float: none;
+        margin-right: 16px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .about .about_right p {
+        font-size: 12px;
+        margin-bottom: 8px;
+    }
+
+    .about .about_right ul li {
+        width: 25%;
+    }
+
+    .topBar.solid {
+        height: 16%;
+    }
+
+
+    .partners {
+        padding: 15px 0 20px 0;
+        overflow: hidden;
+    }
+
+    .blogThumb {
+        width: auto;
+    }
+
+    .blogInfo h6 {
+        font-size: 16px;
+
+    }
+
+    .our_project {
+        padding: 25px 0 10px 0;
+    }
+
+    .our_project ul li {
+        width: auto;
+        margin: 0 0 8px 0;
+        height: 236px;
+    }
+
+    .our_project h3 {
+        margin-bottom: 26px;
+        font-size: 26px;
+    }
+
+    .our_project li .right_text {
+        margin: 15px 10px;
+        width: 56%;
+    }
+
+    .our_project li .right_text p {
+        font-family: 'Poppins', sans-serif;
+        color: #a6a6a6;
+        font-size: 12px;
+        font-weight: 400;
+        text-align: left;
+        padding-bottom: 22px;
+        margin-top: 8px;
+        line-height: 22px;
+
+    }
+
+    .our_project li .right_text h5 {
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+
+    .our_project li .right_text h4 {
+        font-size: 16px;
+        padding-bottom: 30px;
+        border-bottom: 1px solid #acabab;
+    }
+
+
+    .client h3 {
+        font-size: 26px;
+        margin-bottom: 8px;
+    }
+
+    .client {
+        padding: 14px 0;
+    }
+
+    .client .system_src {
+        height: 200px;
+    }
+
+    .client .system_src ul li {
+        width: 40.5%;
+    }
+
+    .subcribe .update h3 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .subcribe .update {
+        padding: 25px 0 20px 0;
+        float: none;
+        text-align: center;
+    }
+
+    .subcribe {
+        margin: 0px 0 0 0;
+    }
+
+    .subcribe .subcribe_form {
+        width: auto;
+        padding: 18px 0 25px 0;
+        float: none;
+    }
+
+    .subcribe .subcribe_form input[type="text"] {
+        font-size: 12px;
+    }
+
+    .subcribe .subcribe_form input[type="submit"] {
+        border: none;
+        right: 11px;
+        top: 63%;
+        width: 22%;
+        cursor: pointer;
+        padding: 16px 20px 16px 8px;
+        font-size: 11px;
+    }
+
+    .footer_sec .footer_top {
+        padding: 30px 0 10px 0;
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child .footer_logo {
+        margin: 0;
+        width: auto;
+    }
+
+    .footer_sec .footer_top .wrapper ul li .footer_logo img {
+        width: 56%;
+        height: auto;
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child {
+        text-align: center;
+        width: auto;
+        margin-right: 0;
+        vertical-align: top;
+        margin: 0 auto 20px 0;
+        display: block;
+    }
+
+    .footer_sec .footer_bottom {
+        padding: 10px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li p {
+        text-align: center;
+        width: auto;
+        margin: 0 auto;
+        font-size: 12px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li h4 {
+        font-size: 20px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li {
+        width: 29%;
+        margin-right: 9px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li.contact_us {
+        margin-right: 0;
+        width: 68%;
+    }
+
+    .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+        height: 66% !important;
+    }
+
+    .top_header_left {
+        float: none;
+        width: auto;
+    }
+
+    .top_header_left p {
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .top_header_right ul li a {
+        font-size: 12px;
+    }
+
+    .top_header {
+        padding: 5px 0;
+    }
+
+    .top_header_right {
+        float: none;
+        width: auto;
+        text-align: center;
+    }
+
+    .logo img {
+        width: 70%;
+    }
+
+    .topBar {
+        padding: 0px 0 18px 0;
+    }
+
+    #header {
+        margin-top: 12px;
+        width: 0 !important;
+    }
+
+
+
+    /*********************************************** Clients ******************************************/
+
+    .clients {
+        margin: 50px 0 50px 0;
+        overflow: hidden;
+    }
+
+    .clients h3 {
+        font-size: 30px;
+    }
+
+    .clients .client_dtls ul li img {
+        width: 100%;
+    }
+
+    .clients .client_dtls ul li {
+        padding: 25px;
+        width: 17%;
+        margin-right: 18px;
+        margin-bottom: 18px;
+    }
+
+    .clients .client_dtls {
+        display: block;
+        margin: 30px 0 10px 0;
+        padding: 0;
+    }
+    /* ==================== start navbar ==================== */
+    .topBar.solid {
+    height: 29% !important;
+}
+    .topBar.solid .logo img{
+        width: 70%;
+    }
+/* ==================== end navbar ==================== */
+    /* ==================== start gallery slider ==================== */
+    #banner-slider{
+        height: 300px !important;
+    }
+    /* ==================== end gallery slider ==================== */
+    /* =================================== Start About =================================== */
+    .about .about_right h2{
+        font-size: 30px;
+    }
+    /* =================================== End About =================================== */
+    /* =================================== Start Services =================================== */
+    .services {
+    padding: 0px 0px 30px;
+    }
+    .services h2{
+        font-size: 30px;
+    }
+    .services ul li{
+        width: 100%;
+            padding: 15px 0 15px;
+    }
+    .services ul li .service_text{
+        padding: 10px;
+    }
+    /* =================================== End Services =================================== */
+    /* =================================== Start Delivery Assurance =================================== */
+    .da{
+        padding: 50px 0;
+    }
+    .da h2{
+        font-size: 30px;
+    }
+    .da p{
+        width: auto;
+    }
+    /* =================================== end Delivery Assurance =================================== */
+    /* =================================== Start Our Projects =================================== */
+    .our_project{
+        padding: 50px 0 0;
+    }
+    .our_project h3{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    /* =================================== end Our Projects =================================== */
+    /* =================================== Start Our Clients =================================== */
+    .client{
+        padding: 50px 0 0;
+    }
+    .client h3{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+/* =================================== end Our Clients =================================== */
+/* =================================== start Contact =================================== */
+    .contact {
+    padding: 50px 0 50px;
+}
+    .contact h2{
+        font-size: 30px;
+    }
+    .contact .left_div{
+        float: none;
+        width: auto;
+        margin: 0;
+    }
+    .contact iframe {
+    margin-bottom: 30px;
+}
+    .contact .right_div{
+        padding-top: 30px;
+    }
+/* =================================== end Contact =================================== */
+
+
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+    .banner.innerPgBn img {
+        width: 780px;
+        left: 50%;
+        margin: 0px 0 0 -552px;
+    }
+
+    .about {
+        padding: 28px 0 40px 0;
+        overflow: hidden;
+        display: table;
+
+    }
+
+    .about .about_left {
+
+        float: none;
+        width: auto;
+        margin-right: 30px;
+        display: table-footer-group;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .about .about_left::after {
+        top: 74%;
+        margin: 0 auto;
+        right: 0;
+    }
+
+    .about_right {
+        width: auto;
+        display: table-header-group;
+        float: none;
+    }
+
+    .about .about_right h2 {
+        margin-bottom: 40px;
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .about .about_right h2 span {
+        display: block;
+    }
+
+    .about .about_right ul li h3 {
+        float: none;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .about .about_right h2::after {
+        top: 70px;
+    }
+
+    .about .about_right .about_part {
+        margin-top: 28px;
+        margin-bottom: 5px;
+    }
+
+    .about .about_left img {
+        width: 30%;
+    }
+
+    .about .about_right ul li .icon_round {
+        float: none;
+        margin-right: 16px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .about .about_right p {
+        font-size: 12px;
+        margin-bottom: 8px;
+    }
+
+    .about .about_right ul li {
+        width: 20%;
+    }
+
+    .about .about_right ul li:nth-child(2) {
+        width: 24%;
+    }
+
+    .topBar.solid {
+        height: 14%;
+    }
+
+    .partners {
+        padding: 15px 0;
+        overflow: hidden;
+    }
+
+    .blogThumb {
+        width: auto;
+        height: 160px;
+    }
+
+    .blogInfo h6 {
+        font-size: 16px;
+
+    }
+
+    .partners h3 {
+        font-size: 26px;
+        margin-bottom: 36px;
+    }
+
+    .partners ul li {
+        height: 145px;
+        margin-right: 10px;
+    }
+
+    .partners ul li img {
+        margin: 15% auto;
+
+    }
+
+    .our_project {
+        padding: 10px 0;
+    }
+
+    .our_project ul li {
+        width: auto;
+        margin: 0 0 8px 0;
+        height: auto;
+    }
+
+    .our_project h3 {
+        margin-bottom: 26px;
+        font-size: 26px;
+    }
+
+    .our_project li .left_pic {
+        float: none;
+    }
+
+    .our_project li .left_pic img {
+        width: 37%;
+        height: auto;
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .our_project li .right_text {
+        margin: 15px 10px;
+        width: auto;
+    }
+
+
+    .our_project li .right_text p {
+        font-family: 'Poppins', sans-serif;
+        color: #a6a6a6;
+        font-size: 12px;
+        font-weight: 400;
+        text-align: left;
+        padding-bottom: 22px;
+        margin-top: 8px;
+        line-height: 22px;
+
+    }
+
+    .our_project li .right_text h5 {
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+
+    .our_project li .right_text h4 {
+        font-size: 16px;
+        padding-bottom: 30px;
+        border-bottom: 1px solid #acabab;
+        text-align: center;
+    }
+
+    .our_project li .right_text a {
+        font-size: 12px;
+    }
+
+    .client h3 {
+        font-size: 26px;
+        margin-bottom: 8px;
+    }
+
+    .client {
+        padding: 14px 0;
+    }
+
+    .client .system_src {
+        height: 200px;
+    }
+
+    .client .system_src ul li {
+        width: 88.5%;
+    }
+
+    .subcribe .update h3 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .subcribe .update {
+
+        padding: 25px 0 20px 0;
+        float: none;
+        text-align: center;
+    }
+
+    .subcribe {
+        margin: 0px 0 0 0;
+    }
+
+    .subcribe .subcribe_form {
+        width: auto;
+        padding: 2px 0 25px 0;
+        float: none;
+    }
+
+    .subcribe .subcribe_form input[type="text"] {
+        font-size: 12px;
+    }
+
+    .subcribe .subcribe_form input[type="submit"] {
+        border: none;
+        right: 11px;
+        top: 64%;
+        width: 34%;
+        cursor: pointer;
+        padding: 16px 20px 16px 8px;
+        font-size: 11px;
+    }
+
+    .footer_sec .footer_top {
+        padding: 30px 0 10px 0;
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child .footer_logo {
+        margin: 0;
+        width: auto;
+    }
+
+    .footer_sec .footer_top .wrapper ul li .footer_logo img {
+        width: 100%;
+        height: auto;
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child {
+        text-align: center;
+        width: auto;
+        margin-right: 0;
+        vertical-align: top;
+        margin: 0 auto 20px 0;
+        display: block;
+    }
+
+    .footer_sec .footer_bottom {
+        padding: 10px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li p {
+        text-align: center;
+        width: auto;
+        margin: 0 auto;
+        font-size: 12px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li h4 {
+        font-size: 20px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li {
+        width: auto;
+        margin-right: 9px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li.contact_us {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .footer_sec .footer_top .wrapper ul li ul li a {
+        color: #fff;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+        height: 66% !important;
+    }
+
+    .top_header_left {
+        float: none;
+        width: auto;
+    }
+
+    .top_header_left p {
+        text-align: center;
+        font-size: 11px;
+    }
+
+    .top_header_right ul li a {
+        font-size: 12px;
+    }
+
+    .top_header {
+        padding: 5px 0;
+    }
+
+    .top_header_right {
+        float: none;
+        width: auto;
+        text-align: center;
+    }
+
+    .logo img {
+        width: 70%;
+    }
+
+    .topBar {
+        padding: 0px 0 18px 0;
+    }
+
+    #header {
+        margin-top: 12px;
+        width: 0 !important;
+    }
+
+    .footer_sec .footer_top .wrapper ul li ul li a {
+        color: #fff;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li ul li {
+        margin-bottom: 10px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li ul li:first-child {
+        margin-bottom: 10px;
+    }
+
+    .footer_sec .footer_bottom .wrapper p {
+        font-size: 12px;
+    }
+
+    /*********************************************** Clients ******************************************/
+
+    .clients {
+        margin: 50px 0 50px 0;
+        overflow: hidden;
+    }
+
+    .clients h3 {
+        font-size: 30px;
+    }
+
+    .clients .client_dtls ul li img {
+        width: auto;
+    }
+
+    .clients .client_dtls {
+        display: block;
+        margin: 30px 0 10px 0;
+        padding: 0;
+    }
+
+    .clients .client_dtls ul li {
+        padding: 25px;
+        width: auto;
+        margin-right: 0;
+        margin: 10px auto;
+        text-align: center;
+        display: block;
+    }
+    /* ==================== start navbar ==================== */
+    .topBar.solid {
+    height: 27% !important;
+}
+    .topBar.solid .logo img{
+        width: 60%;
+    }
+/* ==================== end navbar ==================== */
+    /* ==================== start gallery slider ==================== */
+    #banner-slider{
+        height: 220px !important;
+    }
+    /* ==================== end gallery slider ==================== */
+    /* =================================== Start About =================================== */
+    .about .about_right h2{
+        font-size: 25px;
+    }
+    .about .about_right h3{
+        font-size: 16px;
+    }
+    .about .about_right ul li{
+        width: 100% !important;
+    }
+    /* =================================== End About =================================== */
+    /* =================================== Start Services =================================== */
+    .services {
+    padding: 0px 0px 30px;
+    }
+    .services h2{
+        font-size: 30px;
+    }
+    .services ul li{
+        width: 100%;
+            padding: 15px 0 15px;
+    }
+    .services ul li .service_text{
+        padding: 10px;
+    }
+    .services ul li .service_text h4{
+        font-size: 16px;
+    }
+    /* =================================== End Services =================================== */
+    /* =================================== Start Delivery Assurance =================================== */
+    .da{
+        padding: 30px 0;
+    }
+    .da h2{
+        font-size: 25px;
+    }
+    .da p{
+        width: auto;
+    }
+    .da ul li{
+        width: 100%;
+        margin-right: 0 !important;
+    }
+    .da ul li .icon h3 {
+    font-size: 18px;
+    text-align: left;
+    background: url(../images/big_right.png) no-repeat 0 6px;
+    background-size: 5%;
+    padding-left: 30px;
+}
+    /* =================================== end Delivery Assurance =================================== */
+    /* =================================== Start Our Projects =================================== */
+    .our_project{
+        padding: 30px 0 0;
+    }
+    .our_project h3{
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .our_project li .left_pic img{
+        width: 100%;
+        height: 135px;
+        object-fit: cover;
+    }
+    /* =================================== end Our Projects =================================== */
+    /* =================================== Start Our Clients =================================== */
+    .client {
+        padding: 30px 0 0;
+    }
+    .client h3{
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+/* =================================== end Our Clients =================================== */
+/* =================================== start Contact =================================== */
+    .contact {
+    padding: 30px 0 30px;
+}
+    .contact h2{
+        font-size: 25px;
+    }
+    .contact .left_div{
+        float: none;
+        width: auto;
+        margin: 0;
+    }
+    .contact iframe {
+    margin-bottom: 20px;
+        height: 260px;
+}
+    .contact ul li{
+        margin-bottom: 10px;
+    }
+    .contact ul li input[type=text], .contact ul li input[type=email], .contact ul li input[type=number]{
+        font-size: 14px;
+        height: 45px;
+    }
+    .contact ul li textarea{
+        font-size: 14px;
+        height: 120px;
+    }
+    .contact ul li input[type=submit]{
+        font-size: 14px;
+    }
+    .contact .right_div{
+        padding-top: 30px;
+    }
+    .contact .right_div h4{
+        font-size: 18px;
+    }
+/* =================================== end Contact =================================== */
+}
+
+@media only screen and (max-width:320px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+
+    .banner.innerPgBn img {
+        width: 780px;
+        left: 50%;
+        margin: 0px 0 0 -552px;
+    }
+
+    .about {
+        padding: 20px 0 40px 0;
+        overflow: hidden;
+        display: table;
+    }
+
+    .about .about_left {
+
+        float: none;
+        width: auto;
+        margin-right: 30px;
+        display: table-footer-group;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .about .about_left::after {
+        top: 74%;
+        margin: 0 auto;
+        right: 0;
+        width: 100%;
+    }
+
+    .about_right {
+        width: auto;
+        display: table-header-group;
+        float: none;
+    }
+
+    .about .about_right h2 {
+        margin-bottom: 45px;
+        font-size: 22px;
+        line-height: 31px;
+    }
+
+    .about .about_right h2 span {
+        display: block;
+    }
+
+    .about .about_right ul li h3 {
+        float: none;
+        text-align: center;
+        font-size: 11px;
+    }
+
+    .about .about_right h2::after {
+        top: 70px;
+    }
+
+    .about .about_right .about_part {
+        margin-top: 28px;
+        margin-bottom: 5px;
+    }
+
+    .about .about_left img {
+        width: 46%;
+    }
+
+    .about .about_right ul li .icon_round {
+        float: none;
+        margin-right: 16px;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .about .about_right p {
+        font-size: 12px;
+        margin-bottom: 8px;
+    }
+
+    .about .about_right ul li {
+        width: 20%;
+    }
+
+    .about .about_right ul li:nth-child(2) {
+        width: 24%;
+    }
+
+    .blogInfo {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .topBar.solid {
+        height: 13.5%;
+    }
+   
+    .partners {
+        padding: 15px 0;
+        overflow: hidden;
+    }
+
+    .blogThumb {
+        width: auto;
+        height: 160px;
+    }
+
+    .blogInfo h6 {
+        font-size: 16px;
+
+    }
+
+    .partners ul {
+        margin: 30px 0 40px 0;
+    }
+
+    .partners h3 {
+        font-size: 24px;
+        margin-bottom: 36px;
+    }
+
+    .our_project {
+        padding: 10px 0;
+    }
+
+    .our_project ul li {
+        width: auto;
+        margin: 0 0 8px 0;
+        height: auto;
+    }
+
+    .our_project h3 {
+        margin-bottom: 15px;
+        font-size: 24px;
+    }
+
+    .our_project li .left_pic {
+        float: none;
+    }
+
+    .our_project li .left_pic img {
+        width: 37%;
+        height: auto;
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .our_project li .right_text {
+        margin: 15px 10px;
+        width: auto;
+    }
+
+
+    .our_project li .right_text p {
+        font-family: 'Poppins', sans-serif;
+        color: #a6a6a6;
+        font-size: 12px;
+        font-weight: 400;
+        text-align: left;
+        padding-bottom: 22px;
+        margin-top: 8px;
+        line-height: 22px;
+
+    }
+
+    .our_project li .right_text h5 {
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+
+    .our_project li .right_text h4 {
+        font-size: 16px;
+        padding-bottom: 30px;
+        border-bottom: 1px solid #acabab;
+        text-align: center;
+    }
+
+    .our_project li .right_text a {
+        font-size: 12px;
+    }
+
+    .client h3 {
+        font-size: 24px;
+        margin-bottom: 8px;
+    }
+
+    .client {
+        padding: 14px 0;
+    }
+
+    .client .system_src {
+        height: 200px;
+    }
+
+    .client .system_src ul li {
+        width: 86.5%;
+    }
+
+    .subcribe .update h3 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .subcribe .update {
+
+        padding: 25px 0 20px 0;
+        float: none;
+        text-align: center;
+    }
+
+    .subcribe {
+        margin: 0px 0 0 0;
+    }
+
+    .subcribe .subcribe_form {
+        width: auto;
+        padding: 2px 0 25px 0;
+        float: none;
+    }
+
+    .subcribe .subcribe_form input[type="text"] {
+        font-size: 12px;
+    }
+
+    .subcribe .subcribe_form input[type="submit"] {
+        border: none;
+        right: 11px;
+        top: 64%;
+        width: 34%;
+        cursor: pointer;
+        padding: 16px 20px 16px 8px;
+        font-size: 11px;
+    }
+
+    .footer_sec .footer_top {
+        padding: 30px 0 10px 0;
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child .footer_logo {
+        margin: 0;
+        width: auto;
+    }
+
+    .footer_sec .footer_top .wrapper ul li .footer_logo img {
+        width: 92%;
+        height: auto;
+    }
+
+    .footer_sec .footer_top .wrapper ul li:first-child {
+        text-align: center;
+        width: auto;
+        margin-right: 0;
+        vertical-align: top;
+        margin: 0 auto 20px 0;
+        display: block;
+    }
+
+    .footer_sec .footer_bottom {
+        padding: 10px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li p {
+        text-align: center;
+        width: auto;
+        margin: 0 auto;
+        font-size: 12px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li h4 {
+        font-size: 20px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li {
+        width: auto;
+        margin-right: 9px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li.contact_us {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+        height: 66% !important;
+    }
+
+    .top_header_left {
+        float: none;
+        width: auto;
+    }
+
+    .top_header_left p {
+        text-align: center;
+        font-size: 10px;
+    }
+
+    .top_header_right ul li a {
+        font-size: 11px;
+    }
+
+    .top_header {
+        padding: 5px 0;
+    }
+
+    .top_header_right {
+        float: none;
+        width: auto;
+        text-align: center;
+    }
+
+    .logo img {
+        width: 70%;
+    }
+
+    .topBar {
+        padding: 0px 0 18px 0;
+    }
+
+    #header {
+        margin-top: 12px;
+        width: 0 !important;
+    }
+
+    .footer_sec .footer_top .wrapper ul li ul li a {
+        color: #fff;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li ul li {
+        margin-bottom: 10px;
+    }
+
+    .footer_sec .footer_top .wrapper ul li ul li:first-child {
+        margin-bottom: 10px;
+    }
+
+    .footer_sec .footer_bottom .wrapper p {
+        font-size: 12px;
+    }
+
+    /*********************************************** Clients ******************************************/
+
+    .clients {
+        margin: 50px 0 50px 0;
+        overflow: hidden;
+    }
+
+    .clients h3 {
+        font-size: 26px;
+    }
+
+    .clients .client_dtls ul li img {
+        width: auto;
+    }
+
+    .clients .client_dtls {
+        display: block;
+        margin: 30px 0 10px 0;
+        padding: 0;
+    }
+
+    .clients .client_dtls ul li {
+        padding: 25px;
+        width: auto;
+        margin-right: 0;
+        margin: 10px auto;
+        text-align: center;
+        display: block;
+    }
+/* ==================== start navbar ==================== */
+    .topBar.solid {
+    height: 27% !important;
+}
+    .topBar.solid .logo img{
+        width: 60%;
+    }
+/* ==================== end navbar ==================== */
+/* ==================== start gallery slider ==================== */
+    #banner-slider{
+        height: 220px !important;
+    }
+    /* ==================== end gallery slider ==================== */
+/* =================================== Start About =================================== */
+    .about .about_right h2{
+        font-size: 25px;
+    }
+    .about .about_right h3{
+        font-size: 16px;
+    }
+    .about .about_right ul li{
+        width: 100% !important;
+    }
+    /* =================================== End About =================================== */
+    /* =================================== Start Services =================================== */
+    .services {
+    padding: 0px 0px 30px;
+    }
+    .services h2{
+        font-size: 30px;
+    }
+    .services ul li{
+        width: 100%;
+            padding: 15px 0 15px;
+    }
+    .services ul li .service_text{
+        padding: 10px;
+    }
+    .services ul li .service_text h4{
+        font-size: 16px;
+    }
+    /* =================================== End Services =================================== */
+    /* =================================== Start Delivery Assurance =================================== */
+    .da{
+        padding: 30px 0;
+    }
+    .da h2{
+        font-size: 25px;
+    }
+    .da p{
+        width: auto;
+    }
+    .da ul li{
+        width: 100%;
+        margin-right: 0 !important;
+    }
+    .da ul li .icon h3 {
+    font-size: 18px;
+    text-align: left;
+    background: url(../images/big_right.png) no-repeat 0 6px;
+    background-size: 5%;
+    padding-left: 30px;
+}
+    /* =================================== end Delivery Assurance =================================== */
+    /* =================================== Start Our Projects =================================== */
+    .our_project{
+        padding: 30px 0 0;
+    }
+    .our_project h3{
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .our_project li .left_pic img{
+        width: 100%;
+        height: 135px;
+        object-fit: cover;
+    }
+    /* =================================== end Our Projects =================================== */
+    /* =================================== Start Our Clients =================================== */
+    .client {
+        padding: 30px 0 0;
+    }
+    .client h3{
+        margin-bottom: 20px;
+        font-size: 25px;
+    }
+/* =================================== end Our Clients =================================== */
+/* =================================== start Contact =================================== */
+    .contact {
+    padding: 30px 0 30px;
+}
+    .contact h2{
+        font-size: 25px;
+    }
+    .contact .left_div{
+        float: none;
+        width: auto;
+        margin: 0;
+    }
+    .contact iframe {
+    margin-bottom: 20px;
+        height: 260px;
+}
+    .contact ul li{
+        margin-bottom: 10px;
+    }
+    .contact ul li input[type=text], .contact ul li input[type=email], .contact ul li input[type=number]{
+        font-size: 14px;
+        height: 45px;
+    }
+    .contact ul li textarea{
+        font-size: 14px;
+        height: 120px;
+    }
+    .contact ul li input[type=submit]{
+        font-size: 14px;
+    }
+    .contact .right_div{
+        padding-top: 30px;
+    }
+    .contact .right_div h4{
+        font-size: 18px;
+    }
+/* =================================== end Contact =================================== */
+}
